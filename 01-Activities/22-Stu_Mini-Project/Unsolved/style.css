@@ -1,0 +1,41 @@
+* { 
+    margin: 0;
+}
+
+header,
+footer {
+   background-color: white;
+}
+
+main  {
+    background-color: beige;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 20px;
+}
+
+#footer-text {
+   text-align: center;
+}
+
+.light-text-color {
+    color: aliceblue;
+}
+
+ul {
+    list-style: none;
+    padding: 2px;
+}
+
+li {
+    display: inline;
+    margin-left: 6px;
+}
+
+nav {
+    text-align: right;
+}
